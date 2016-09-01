@@ -1,0 +1,1224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2008/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Body>
+    <ReportItems>
+      <Tablix Name="Tablix1">
+        <TablixCorner>
+          <TablixCornerRows>
+            <TablixCornerRow>
+              <TablixCornerCell>
+                <CellContents>
+                  <Textbox Name="Textbox4">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>SALESMAN</Value>
+                            <Style>
+                              <Color>White</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox4</rd:DefaultName>
+                    <Style>
+                      <Border>
+                        <Color>LightGrey</Color>
+                        <Style>Solid</Style>
+                      </Border>
+                      <BackgroundColor>Indigo</BackgroundColor>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </CellContents>
+              </TablixCornerCell>
+              <TablixCornerCell>
+                <CellContents>
+                  <Textbox Name="Textbox119">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value />
+                            <Style>
+                              <Color>White</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox119</rd:DefaultName>
+                    <Style>
+                      <Border>
+                        <Color>LightGrey</Color>
+                        <Style>Solid</Style>
+                      </Border>
+                      <BackgroundColor>Indigo</BackgroundColor>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </CellContents>
+              </TablixCornerCell>
+              <TablixCornerCell>
+                <CellContents>
+                  <Textbox Name="Textbox6">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value />
+                            <Style>
+                              <Color>White</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox6</rd:DefaultName>
+                    <Style>
+                      <Border>
+                        <Color>LightGrey</Color>
+                        <Style>Solid</Style>
+                      </Border>
+                      <BackgroundColor>Indigo</BackgroundColor>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </CellContents>
+              </TablixCornerCell>
+            </TablixCornerRow>
+            <TablixCornerRow>
+              <TablixCornerCell>
+                <CellContents>
+                  <Textbox Name="Textbox1">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value />
+                            <Style>
+                              <Color>White</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox1</rd:DefaultName>
+                    <Style>
+                      <Border>
+                        <Color>LightGrey</Color>
+                        <Style>Solid</Style>
+                      </Border>
+                      <BackgroundColor>Indigo</BackgroundColor>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </CellContents>
+              </TablixCornerCell>
+              <TablixCornerCell>
+                <CellContents>
+                  <Textbox Name="Textbox120">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value />
+                            <Style>
+                              <Color>White</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox120</rd:DefaultName>
+                    <Style>
+                      <Border>
+                        <Color>LightGrey</Color>
+                        <Style>Solid</Style>
+                      </Border>
+                      <BackgroundColor>Indigo</BackgroundColor>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </CellContents>
+              </TablixCornerCell>
+              <TablixCornerCell>
+                <CellContents>
+                  <Textbox Name="Textbox7">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>Group1</Value>
+                            <Style>
+                              <Color>White</Color>
+                            </Style>
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox7</rd:DefaultName>
+                    <Style>
+                      <Border>
+                        <Color>LightGrey</Color>
+                        <Style>Solid</Style>
+                      </Border>
+                      <BackgroundColor>Indigo</BackgroundColor>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </CellContents>
+              </TablixCornerCell>
+            </TablixCornerRow>
+            <TablixCornerRow>
+              <TablixCornerCell>
+                <CellContents>
+                  <Rectangle Name="Rectangle7">
+                    <KeepTogether>true</KeepTogether>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <BackgroundColor>Indigo</BackgroundColor>
+                    </Style>
+                  </Rectangle>
+                </CellContents>
+              </TablixCornerCell>
+              <TablixCornerCell>
+                <CellContents>
+                  <Textbox Name="Textbox121">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value />
+                            <Style />
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox121</rd:DefaultName>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <BackgroundColor>Indigo</BackgroundColor>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </CellContents>
+              </TablixCornerCell>
+              <TablixCornerCell>
+                <CellContents>
+                  <Rectangle Name="Rectangle6">
+                    <KeepTogether>true</KeepTogether>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <BackgroundColor>Indigo</BackgroundColor>
+                    </Style>
+                  </Rectangle>
+                </CellContents>
+              </TablixCornerCell>
+            </TablixCornerRow>
+            <TablixCornerRow>
+              <TablixCornerCell>
+                <CellContents>
+                  <Rectangle Name="Rectangle9">
+                    <KeepTogether>true</KeepTogether>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <BackgroundColor>Indigo</BackgroundColor>
+                    </Style>
+                  </Rectangle>
+                </CellContents>
+              </TablixCornerCell>
+              <TablixCornerCell>
+                <CellContents>
+                  <Textbox Name="Textbox122">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value />
+                            <Style />
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>Textbox122</rd:DefaultName>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <BackgroundColor>Indigo</BackgroundColor>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </CellContents>
+              </TablixCornerCell>
+              <TablixCornerCell>
+                <CellContents>
+                  <Rectangle Name="Rectangle8">
+                    <KeepTogether>true</KeepTogether>
+                    <Style>
+                      <Border>
+                        <Style>None</Style>
+                      </Border>
+                      <BackgroundColor>Indigo</BackgroundColor>
+                    </Style>
+                  </Rectangle>
+                </CellContents>
+              </TablixCornerCell>
+            </TablixCornerRow>
+          </TablixCornerRows>
+        </TablixCorner>
+        <TablixBody>
+          <TablixColumns>
+            <TablixColumn>
+              <Width>1.125in</Width>
+            </TablixColumn>
+          </TablixColumns>
+          <TablixRows>
+            <TablixRow>
+              <Height>0.3in</Height>
+              <TablixCells>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="GROSS_CURR_AMOUNT">
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Sum(Fields!GROSS_CURR_AMOUNT.Value)</Value>
+                              <Style>
+                                <Format>'$'#,0.00;('$'#,0.00)</Format>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>GROSS_CURR_AMOUNT</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <BackgroundColor>=SWITCH(
+  VAL(ReportItems!COLUMNCOLOR.Value) MOD 2=0 and VAL(ReportItems!COLUMNCOLOR2.Value) MOD 2&lt;&gt;0,"LightGreen",
+    VAL(ReportItems!COLUMNCOLOR.Value) MOD 2&lt;&gt;0 and VAL(ReportItems!COLUMNCOLOR2.Value) MOD 2=0,"LightGreen",
+	  VAL(ReportItems!COLUMNCOLOR.Value) MOD 2=0 and VAL(ReportItems!COLUMNCOLOR2.Value) MOD 2=0,"LIGHTBLUE",
+  TRUE,"SILVER")</BackgroundColor>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                        <rd:FormatSymbolCulture>en-US</rd:FormatSymbolCulture>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+              </TablixCells>
+            </TablixRow>
+          </TablixRows>
+        </TablixBody>
+        <TablixColumnHierarchy>
+          <TablixMembers>
+            <TablixMember>
+              <Group Name="Year_Invoice">
+                <GroupExpressions>
+                  <GroupExpression>=Fields!Year_Invoice.Value</GroupExpression>
+                </GroupExpressions>
+              </Group>
+              <SortExpressions>
+                <SortExpression>
+                  <Value>=Fields!Year_Invoice.Value</Value>
+                </SortExpression>
+              </SortExpressions>
+              <TablixHeader>
+                <Size>0.35416in</Size>
+                <CellContents>
+                  <Rectangle Name="Rectangle3">
+                    <ReportItems>
+                      <Textbox Name="Year_Invoice">
+                        <CanGrow>true</CanGrow>
+                        <KeepTogether>true</KeepTogether>
+                        <Paragraphs>
+                          <Paragraph>
+                            <TextRuns>
+                              <TextRun>
+                                <Value>=Fields!Year_Invoice.Value</Value>
+                                <Style>
+                                  <Color>White</Color>
+                                </Style>
+                              </TextRun>
+                            </TextRuns>
+                            <Style>
+                              <TextAlign>Center</TextAlign>
+                            </Style>
+                          </Paragraph>
+                        </Paragraphs>
+                        <Top>0.10416in</Top>
+                        <Left>0.11459in</Left>
+                        <Height>0.25in</Height>
+                        <Width>0.90625in</Width>
+                        <Style>
+                          <Border>
+                            <Style>None</Style>
+                          </Border>
+                          <PaddingLeft>2pt</PaddingLeft>
+                          <PaddingRight>2pt</PaddingRight>
+                          <PaddingTop>2pt</PaddingTop>
+                          <PaddingBottom>2pt</PaddingBottom>
+                          <Direction>LTR</Direction>
+                        </Style>
+                      </Textbox>
+                    </ReportItems>
+                    <KeepTogether>true</KeepTogether>
+                    <Style>
+                      <Border>
+                        <Style>Solid</Style>
+                      </Border>
+                      <BackgroundColor>Indigo</BackgroundColor>
+                    </Style>
+                  </Rectangle>
+                </CellContents>
+              </TablixHeader>
+              <TablixMembers>
+                <TablixMember>
+                  <Group Name="Month_Invoice">
+                    <GroupExpressions>
+                      <GroupExpression>=Fields!Month_Invoice.Value</GroupExpression>
+                    </GroupExpressions>
+                  </Group>
+                  <SortExpressions>
+                    <SortExpression>
+                      <Value>=Fields!Month_Invoice.Value</Value>
+                    </SortExpression>
+                  </SortExpressions>
+                  <TablixHeader>
+                    <Size>0.26458in</Size>
+                    <CellContents>
+                      <Textbox Name="MonthName_Invoice">
+                        <KeepTogether>true</KeepTogether>
+                        <Paragraphs>
+                          <Paragraph>
+                            <TextRuns>
+                              <TextRun>
+                                <Value>=Fields!MonthName_Invoice.Value</Value>
+                                <Style>
+                                  <Color>White</Color>
+                                </Style>
+                              </TextRun>
+                            </TextRuns>
+                            <Style>
+                              <TextAlign>Center</TextAlign>
+                            </Style>
+                          </Paragraph>
+                        </Paragraphs>
+                        <rd:DefaultName>MonthName_Invoice</rd:DefaultName>
+                        <Style>
+                          <Border>
+                            <Color>LightGrey</Color>
+                            <Style>Solid</Style>
+                          </Border>
+                          <BackgroundColor>Indigo</BackgroundColor>
+                          <PaddingLeft>2pt</PaddingLeft>
+                          <PaddingRight>2pt</PaddingRight>
+                          <PaddingTop>2pt</PaddingTop>
+                          <PaddingBottom>2pt</PaddingBottom>
+                        </Style>
+                      </Textbox>
+                    </CellContents>
+                  </TablixHeader>
+                  <TablixMembers>
+                    <TablixMember>
+                      <Group Name="Group2">
+                        <GroupExpressions>
+                          <GroupExpression>1</GroupExpression>
+                        </GroupExpressions>
+                      </Group>
+                      <SortExpressions>
+                        <SortExpression>
+                          <Value>1</Value>
+                        </SortExpression>
+                      </SortExpressions>
+                      <TablixHeader>
+                        <Size>0.03125in</Size>
+                        <CellContents>
+                          <Rectangle Name="Rectangle4">
+                            <ReportItems>
+                              <Textbox Name="COLUMNCOLOR">
+                                <KeepTogether>true</KeepTogether>
+                                <Paragraphs>
+                                  <Paragraph>
+                                    <TextRuns>
+                                      <TextRun>
+                                        <Value>=RunningValue(Fields!Year_Invoice.Value,countDistinct,Nothing)</Value>
+                                        <Style>
+                                          <FontSize>8pt</FontSize>
+                                          <Color>White</Color>
+                                        </Style>
+                                      </TextRun>
+                                    </TextRuns>
+                                    <Style>
+                                      <TextAlign>Center</TextAlign>
+                                    </Style>
+                                  </Paragraph>
+                                </Paragraphs>
+                                <Left>0.0625in</Left>
+                                <Height>0in</Height>
+                                <Width>0in</Width>
+                                <Visibility>
+                                  <Hidden>true</Hidden>
+                                </Visibility>
+                                <Style>
+                                  <Border>
+                                    <Color>LightGrey</Color>
+                                    <Style>Solid</Style>
+                                  </Border>
+                                  <BackgroundColor>Indigo</BackgroundColor>
+                                  <PaddingLeft>2pt</PaddingLeft>
+                                  <PaddingRight>2pt</PaddingRight>
+                                  <PaddingTop>2pt</PaddingTop>
+                                  <PaddingBottom>2pt</PaddingBottom>
+                                </Style>
+                              </Textbox>
+                            </ReportItems>
+                            <KeepTogether>true</KeepTogether>
+                            <Style>
+                              <Border>
+                                <Style>None</Style>
+                              </Border>
+                              <BackgroundColor>Indigo</BackgroundColor>
+                            </Style>
+                          </Rectangle>
+                        </CellContents>
+                      </TablixHeader>
+                      <TablixMembers>
+                        <TablixMember>
+                          <Group Name="Group3">
+                            <GroupExpressions>
+                              <GroupExpression>1</GroupExpression>
+                            </GroupExpressions>
+                          </Group>
+                          <SortExpressions>
+                            <SortExpression>
+                              <Value>1</Value>
+                            </SortExpression>
+                          </SortExpressions>
+                          <TablixHeader>
+                            <Size>0.03125in</Size>
+                            <CellContents>
+                              <Rectangle Name="Rectangle5">
+                                <ReportItems>
+                                  <Textbox Name="COLUMNCOLOR2">
+                                    <KeepTogether>true</KeepTogether>
+                                    <Paragraphs>
+                                      <Paragraph>
+                                        <TextRuns>
+                                          <TextRun>
+                                            <Value>=RunningValue(Fields!MonthYear_Invoice.Value,countDistinct,Nothing)</Value>
+                                            <Style>
+                                              <FontSize>8pt</FontSize>
+                                              <Color>White</Color>
+                                            </Style>
+                                          </TextRun>
+                                        </TextRuns>
+                                        <Style>
+                                          <TextAlign>Center</TextAlign>
+                                        </Style>
+                                      </Paragraph>
+                                    </Paragraphs>
+                                    <Left>0.0625in</Left>
+                                    <Height>0in</Height>
+                                    <Width>0in</Width>
+                                    <Visibility>
+                                      <Hidden>true</Hidden>
+                                    </Visibility>
+                                    <Style>
+                                      <Border>
+                                        <Color>LightGrey</Color>
+                                        <Style>Solid</Style>
+                                      </Border>
+                                      <BackgroundColor>Indigo</BackgroundColor>
+                                      <PaddingLeft>2pt</PaddingLeft>
+                                      <PaddingRight>2pt</PaddingRight>
+                                      <PaddingTop>2pt</PaddingTop>
+                                      <PaddingBottom>2pt</PaddingBottom>
+                                    </Style>
+                                  </Textbox>
+                                </ReportItems>
+                                <KeepTogether>true</KeepTogether>
+                                <Style>
+                                  <Border>
+                                    <Style>None</Style>
+                                  </Border>
+                                  <BackgroundColor>Indigo</BackgroundColor>
+                                </Style>
+                              </Rectangle>
+                            </CellContents>
+                          </TablixHeader>
+                        </TablixMember>
+                      </TablixMembers>
+                    </TablixMember>
+                  </TablixMembers>
+                </TablixMember>
+              </TablixMembers>
+            </TablixMember>
+          </TablixMembers>
+        </TablixColumnHierarchy>
+        <TablixRowHierarchy>
+          <TablixMembers>
+            <TablixMember>
+              <Group Name="SALESMAN">
+                <GroupExpressions>
+                  <GroupExpression>=Fields!SALESMAN.Value</GroupExpression>
+                </GroupExpressions>
+              </Group>
+              <SortExpressions>
+                <SortExpression>
+                  <Value>=Fields!SALESMAN.Value</Value>
+                </SortExpression>
+              </SortExpressions>
+              <TablixHeader>
+                <Size>1in</Size>
+                <CellContents>
+                  <Textbox Name="SALESMAN">
+                    <CanGrow>true</CanGrow>
+                    <KeepTogether>true</KeepTogether>
+                    <Paragraphs>
+                      <Paragraph>
+                        <TextRuns>
+                          <TextRun>
+                            <Value>=Fields!SALESMAN.Value</Value>
+                            <Style />
+                          </TextRun>
+                        </TextRuns>
+                        <Style />
+                      </Paragraph>
+                    </Paragraphs>
+                    <rd:DefaultName>SALESMAN</rd:DefaultName>
+                    <Style>
+                      <Border>
+                        <Color>LightGrey</Color>
+                        <Style>Solid</Style>
+                      </Border>
+                      <BackgroundColor>CornflowerBlue</BackgroundColor>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                  </Textbox>
+                </CellContents>
+              </TablixHeader>
+              <TablixMembers>
+                <TablixMember>
+                  <TablixHeader>
+                    <Size>1in</Size>
+                    <CellContents>
+                      <Chart Name="Sparkline1">
+                        <ChartCategoryHierarchy>
+                          <ChartMembers>
+                            <ChartMember>
+                              <Group Name="Sparkline1_CategoryGroup">
+                                <GroupExpressions>
+                                  <GroupExpression>=Fields!Year_Invoice.Value</GroupExpression>
+                                </GroupExpressions>
+                              </Group>
+                              <SortExpressions>
+                                <SortExpression>
+                                  <Value>=Fields!Year_Invoice.Value</Value>
+                                </SortExpression>
+                              </SortExpressions>
+                              <Label>=Fields!Year_Invoice.Value</Label>
+                            </ChartMember>
+                          </ChartMembers>
+                        </ChartCategoryHierarchy>
+                        <ChartSeriesHierarchy>
+                          <ChartMembers>
+                            <ChartMember>
+                              <Group Name="Sparkline1_SeriesGroup">
+                                <GroupExpressions>
+                                  <GroupExpression>=Fields!SALESMAN.Value</GroupExpression>
+                                </GroupExpressions>
+                              </Group>
+                              <SortExpressions>
+                                <SortExpression>
+                                  <Value>=Fields!SALESMAN.Value</Value>
+                                </SortExpression>
+                              </SortExpressions>
+                              <Label>=Fields!SALESMAN.Value</Label>
+                            </ChartMember>
+                          </ChartMembers>
+                        </ChartSeriesHierarchy>
+                        <ChartData>
+                          <ChartSeriesCollection>
+                            <ChartSeries Name="GROSS_CURR_AMOUNT">
+                              <ChartDataPoints>
+                                <ChartDataPoint>
+                                  <ChartDataPointValues>
+                                    <Y>=Sum(Fields!GROSS_CURR_AMOUNT.Value)</Y>
+                                  </ChartDataPointValues>
+                                  <ChartDataLabel>
+                                    <Style />
+                                  </ChartDataLabel>
+                                  <Style />
+                                  <ChartMarker>
+                                    <Style />
+                                  </ChartMarker>
+                                  <DataElementOutput>Output</DataElementOutput>
+                                </ChartDataPoint>
+                              </ChartDataPoints>
+                              <Type>Line</Type>
+                              <Style />
+                              <ChartEmptyPoints>
+                                <Style />
+                                <ChartMarker>
+                                  <Style />
+                                </ChartMarker>
+                                <ChartDataLabel>
+                                  <Style />
+                                </ChartDataLabel>
+                              </ChartEmptyPoints>
+                              <ValueAxisName>Primary</ValueAxisName>
+                              <CategoryAxisName>Primary</CategoryAxisName>
+                              <ChartSmartLabel>
+                                <CalloutLineColor>Black</CalloutLineColor>
+                                <MinMovingDistance>0pt</MinMovingDistance>
+                              </ChartSmartLabel>
+                            </ChartSeries>
+                          </ChartSeriesCollection>
+                        </ChartData>
+                        <ChartAreas>
+                          <ChartArea Name="Default">
+                            <ChartCategoryAxes>
+                              <ChartAxis Name="Primary">
+                                <Visible>False</Visible>
+                                <Style>
+                                  <FontSize>8pt</FontSize>
+                                </Style>
+                                <ChartAxisTitle>
+                                  <Caption>Axis Title</Caption>
+                                  <Style>
+                                    <FontSize>8pt</FontSize>
+                                  </Style>
+                                </ChartAxisTitle>
+                                <Margin>False</Margin>
+                                <ChartMajorGridLines>
+                                  <Enabled>False</Enabled>
+                                  <Style>
+                                    <Border>
+                                      <Color>Gainsboro</Color>
+                                    </Border>
+                                  </Style>
+                                </ChartMajorGridLines>
+                                <ChartMinorGridLines>
+                                  <Style>
+                                    <Border>
+                                      <Color>Gainsboro</Color>
+                                      <Style>Dotted</Style>
+                                    </Border>
+                                  </Style>
+                                </ChartMinorGridLines>
+                                <ChartMinorTickMarks>
+                                  <Length>0.5</Length>
+                                </ChartMinorTickMarks>
+                                <CrossAt>NaN</CrossAt>
+                                <Minimum>NaN</Minimum>
+                                <Maximum>NaN</Maximum>
+                                <ChartAxisScaleBreak>
+                                  <Style />
+                                </ChartAxisScaleBreak>
+                              </ChartAxis>
+                              <ChartAxis Name="Secondary">
+                                <Visible>False</Visible>
+                                <Style>
+                                  <FontSize>8pt</FontSize>
+                                </Style>
+                                <ChartAxisTitle>
+                                  <Caption>Axis Title</Caption>
+                                  <Style>
+                                    <FontSize>8pt</FontSize>
+                                  </Style>
+                                </ChartAxisTitle>
+                                <Margin>False</Margin>
+                                <ChartMajorGridLines>
+                                  <Enabled>False</Enabled>
+                                  <Style>
+                                    <Border>
+                                      <Color>Gainsboro</Color>
+                                    </Border>
+                                  </Style>
+                                </ChartMajorGridLines>
+                                <ChartMinorGridLines>
+                                  <Style>
+                                    <Border>
+                                      <Color>Gainsboro</Color>
+                                      <Style>Dotted</Style>
+                                    </Border>
+                                  </Style>
+                                </ChartMinorGridLines>
+                                <ChartMinorTickMarks>
+                                  <Length>0.5</Length>
+                                </ChartMinorTickMarks>
+                                <CrossAt>NaN</CrossAt>
+                                <Location>Opposite</Location>
+                                <Minimum>NaN</Minimum>
+                                <Maximum>NaN</Maximum>
+                                <ChartAxisScaleBreak>
+                                  <Style />
+                                </ChartAxisScaleBreak>
+                              </ChartAxis>
+                            </ChartCategoryAxes>
+                            <ChartValueAxes>
+                              <ChartAxis Name="Primary">
+                                <Visible>False</Visible>
+                                <Style>
+                                  <FontSize>8pt</FontSize>
+                                </Style>
+                                <ChartAxisTitle>
+                                  <Caption>Axis Title</Caption>
+                                  <Style>
+                                    <FontSize>8pt</FontSize>
+                                  </Style>
+                                </ChartAxisTitle>
+                                <ChartMajorGridLines>
+                                  <Style>
+                                    <Border>
+                                      <Color>Gainsboro</Color>
+                                    </Border>
+                                  </Style>
+                                </ChartMajorGridLines>
+                                <ChartMinorGridLines>
+                                  <Style>
+                                    <Border>
+                                      <Color>Gainsboro</Color>
+                                      <Style>Dotted</Style>
+                                    </Border>
+                                  </Style>
+                                </ChartMinorGridLines>
+                                <ChartMinorTickMarks>
+                                  <Length>0.5</Length>
+                                </ChartMinorTickMarks>
+                                <CrossAt>NaN</CrossAt>
+                                <Minimum>NaN</Minimum>
+                                <Maximum>NaN</Maximum>
+                                <ChartAxisScaleBreak>
+                                  <Style />
+                                </ChartAxisScaleBreak>
+                              </ChartAxis>
+                              <ChartAxis Name="Secondary">
+                                <Visible>False</Visible>
+                                <Style>
+                                  <FontSize>8pt</FontSize>
+                                </Style>
+                                <ChartAxisTitle>
+                                  <Caption>Axis Title</Caption>
+                                  <Style>
+                                    <FontSize>8pt</FontSize>
+                                  </Style>
+                                </ChartAxisTitle>
+                                <ChartMajorGridLines>
+                                  <Style>
+                                    <Border>
+                                      <Color>Gainsboro</Color>
+                                    </Border>
+                                  </Style>
+                                </ChartMajorGridLines>
+                                <ChartMinorGridLines>
+                                  <Style>
+                                    <Border>
+                                      <Color>Gainsboro</Color>
+                                      <Style>Dotted</Style>
+                                    </Border>
+                                  </Style>
+                                </ChartMinorGridLines>
+                                <ChartMinorTickMarks>
+                                  <Length>0.5</Length>
+                                </ChartMinorTickMarks>
+                                <CrossAt>NaN</CrossAt>
+                                <Location>Opposite</Location>
+                                <Minimum>NaN</Minimum>
+                                <Maximum>NaN</Maximum>
+                                <ChartAxisScaleBreak>
+                                  <Style />
+                                </ChartAxisScaleBreak>
+                              </ChartAxis>
+                            </ChartValueAxes>
+                            <Style>
+                              <BackgroundColor>#00ffffff</BackgroundColor>
+                              <BackgroundGradientType>None</BackgroundGradientType>
+                            </Style>
+                          </ChartArea>
+                        </ChartAreas>
+                        <Palette>BrightPastel</Palette>
+                        <ChartBorderSkin>
+                          <Style>
+                            <BackgroundColor>Gray</BackgroundColor>
+                            <BackgroundGradientType>None</BackgroundGradientType>
+                            <Color>White</Color>
+                          </Style>
+                        </ChartBorderSkin>
+                        <ChartNoDataMessage Name="NoDataMessage">
+                          <Caption>No Data Available</Caption>
+                          <Style>
+                            <BackgroundGradientType>None</BackgroundGradientType>
+                            <TextAlign>General</TextAlign>
+                            <VerticalAlign>Top</VerticalAlign>
+                          </Style>
+                        </ChartNoDataMessage>
+                        <rd:DesignerMode>Sparkline</rd:DesignerMode>
+                        <DataSetName>DataSet1</DataSetName>
+                        <Style>
+                          <Border>
+                            <Color>LightGrey</Color>
+                            <Style>Solid</Style>
+                          </Border>
+                          <BackgroundColor>White</BackgroundColor>
+                          <BackgroundGradientType>None</BackgroundGradientType>
+                        </Style>
+                      </Chart>
+                    </CellContents>
+                  </TablixHeader>
+                  <TablixMembers>
+                    <TablixMember>
+                      <Group Name="Group1">
+                        <GroupExpressions>
+                          <GroupExpression>1</GroupExpression>
+                        </GroupExpressions>
+                      </Group>
+                      <SortExpressions>
+                        <SortExpression>
+                          <Value>1</Value>
+                        </SortExpression>
+                      </SortExpressions>
+                      <TablixHeader>
+                        <Size>1in</Size>
+                        <CellContents>
+                          <Textbox Name="ROWCOLOR">
+                            <CanGrow>true</CanGrow>
+                            <KeepTogether>true</KeepTogether>
+                            <Paragraphs>
+                              <Paragraph>
+                                <TextRuns>
+                                  <TextRun>
+                                    <Value>=RunningValue(Fields!SALESMAN.Value,countDistinct,Nothing)</Value>
+                                    <Style />
+                                  </TextRun>
+                                </TextRuns>
+                                <Style />
+                              </Paragraph>
+                            </Paragraphs>
+                            <Style>
+                              <Border>
+                                <Color>LightGrey</Color>
+                                <Style>Solid</Style>
+                              </Border>
+                              <BackgroundColor>=IIF(VAL(ReportItems!ROWCOLOR.Value) MOD 2,"LIGHTBLUE","SILVER")</BackgroundColor>
+                              <PaddingLeft>2pt</PaddingLeft>
+                              <PaddingRight>2pt</PaddingRight>
+                              <PaddingTop>2pt</PaddingTop>
+                              <PaddingBottom>2pt</PaddingBottom>
+                            </Style>
+                          </Textbox>
+                        </CellContents>
+                      </TablixHeader>
+                    </TablixMember>
+                  </TablixMembers>
+                </TablixMember>
+              </TablixMembers>
+            </TablixMember>
+          </TablixMembers>
+        </TablixRowHierarchy>
+        <FixedColumnHeaders>true</FixedColumnHeaders>
+        <FixedRowHeaders>true</FixedRowHeaders>
+        <DataSetName>DataSet1</DataSetName>
+        <Top>0.19667in</Top>
+        <Left>0.23833in</Left>
+        <Height>0.98124in</Height>
+        <Width>4.125in</Width>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+        </Style>
+      </Tablix>
+    </ReportItems>
+    <Height>5.19667in</Height>
+    <Style />
+  </Body>
+  <Width>33in</Width>
+  <Page>
+    <LeftMargin>1in</LeftMargin>
+    <RightMargin>1in</RightMargin>
+    <TopMargin>1in</TopMargin>
+    <BottomMargin>1in</BottomMargin>
+    <Style />
+  </Page>
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="IFSReport">
+      <DataSourceReference>IFSReport</DataSourceReference>
+      <rd:SecurityType>None</rd:SecurityType>
+      <rd:DataSourceID>54a071e7-3590-4181-a016-56392d24e134</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="DataSet1">
+      <Query>
+        <DataSourceName>IFSReport</DataSourceName>
+        <QueryParameters>
+          <QueryParameter Name="@Year">
+            <Value>=Parameters!Year.Value</Value>
+          </QueryParameter>
+        </QueryParameters>
+        <CommandText>select  ITEM_ID, INVOICE_DATE, INVOICED_QTY, COST, SALE_UNIT_PRICE, DISCOUNT, CURR_DISCOUNT, ORDER_DISCOUNT, ORDER_CURR_DISCOUNT, ADDITIONAL_DISCOUNT, ADDITIONAL_CURR_DISCOUNT, 
+                         GROSS_CURR_AMOUNT, CATALOG_DESC, CUSTOMER_NAME, COUNTRY_DESC, COMPANY_NAME, MARKET_DESC, REGION_DESC, DISTRICT_DESC, SALESMAN, AUTHORIZE_NAME, ACCT_CURRENCY_CODE, 
+                         ORDER_CURRENCY_CODE, CATALOG_GROUP, PAYER_NO, PAYER_NAME, [MASTER ID], [Customer Name], [IFS region code], [IFS region], [Cust Stat Grp], [Cust stat desc], Agent
+FROM            viewInvoiceLinesMaster
+where Year(INVOICE_DATE) in (@Year)</CommandText>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <Fields>
+        <Field Name="ITEM_ID">
+          <DataField>ITEM_ID</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="INVOICE_DATE">
+          <DataField>INVOICE_DATE</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="INVOICED_QTY">
+          <DataField>INVOICED_QTY</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="COST">
+          <DataField>COST</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="SALE_UNIT_PRICE">
+          <DataField>SALE_UNIT_PRICE</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="DISCOUNT">
+          <DataField>DISCOUNT</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="CURR_DISCOUNT">
+          <DataField>CURR_DISCOUNT</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="ORDER_DISCOUNT">
+          <DataField>ORDER_DISCOUNT</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="ORDER_CURR_DISCOUNT">
+          <DataField>ORDER_CURR_DISCOUNT</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="ADDITIONAL_DISCOUNT">
+          <DataField>ADDITIONAL_DISCOUNT</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="ADDITIONAL_CURR_DISCOUNT">
+          <DataField>ADDITIONAL_CURR_DISCOUNT</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="GROSS_CURR_AMOUNT">
+          <DataField>GROSS_CURR_AMOUNT</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="CATALOG_DESC">
+          <DataField>CATALOG_DESC</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="CUSTOMER_NAME">
+          <DataField>CUSTOMER_NAME</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="COUNTRY_DESC">
+          <DataField>COUNTRY_DESC</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="COMPANY_NAME">
+          <DataField>COMPANY_NAME</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="MARKET_DESC">
+          <DataField>MARKET_DESC</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="REGION_DESC">
+          <DataField>REGION_DESC</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="DISTRICT_DESC">
+          <DataField>DISTRICT_DESC</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="SALESMAN">
+          <DataField>SALESMAN</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="AUTHORIZE_NAME">
+          <DataField>AUTHORIZE_NAME</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="ACCT_CURRENCY_CODE">
+          <DataField>ACCT_CURRENCY_CODE</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="ORDER_CURRENCY_CODE">
+          <DataField>ORDER_CURRENCY_CODE</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="CATALOG_GROUP">
+          <DataField>CATALOG_GROUP</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="PAYER_NO">
+          <DataField>PAYER_NO</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="PAYER_NAME">
+          <DataField>PAYER_NAME</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="MASTER_ID">
+          <DataField>MASTER ID</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Customer_Name">
+          <DataField>Customer Name</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="IFS_region_code">
+          <DataField>IFS region code</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="IFS_region">
+          <DataField>IFS region</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Cust_Stat_Grp">
+          <DataField>Cust Stat Grp</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="Cust_stat_desc">
+          <DataField>Cust stat desc</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Agent">
+          <DataField>Agent</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Year_Invoice">
+          <Value>=Year(Fields!INVOICE_DATE.Value)</Value>
+        </Field>
+        <Field Name="Month_Invoice">
+          <Value>=Month(Fields!INVOICE_DATE.Value)</Value>
+        </Field>
+        <Field Name="MonthName_Invoice">
+          <Value>=MonthName(Fields!Month_Invoice.Value)</Value>
+        </Field>
+        <Field Name="MonthYear_Invoice">
+          <Value>=Fields!Month_Invoice.Value &amp; " " &amp; Fields!Year_Invoice.Value</Value>
+        </Field>
+      </Fields>
+    </DataSet>
+  </DataSets>
+  <ReportParameters>
+    <ReportParameter Name="Year">
+      <DataType>Integer</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>2016</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Year</Prompt>
+      <ValidValues>
+        <ParameterValues>
+          <ParameterValue>
+            <Value>2016</Value>
+            <Label>2016</Label>
+          </ParameterValue>
+          <ParameterValue>
+            <Value>2015</Value>
+            <Label>2015</Label>
+          </ParameterValue>
+          <ParameterValue>
+            <Value>2014</Value>
+            <Label>2014</Label>
+          </ParameterValue>
+          <ParameterValue>
+            <Value>2017</Value>
+            <Label>2017</Label>
+          </ParameterValue>
+        </ParameterValues>
+      </ValidValues>
+      <MultiValue>true</MultiValue>
+    </ReportParameter>
+  </ReportParameters>
+  <Language>en-US</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>715703f7-2ed9-47f0-8743-70f8b1693202</rd:ReportID>
+</Report>
